@@ -1,0 +1,30 @@
+# Local Terraform state (never commit — use remote backend)
+*.tfstate
+*.tfstate.*
+*.tfstate.backup
+
+# Saved plan files (contain resolved secrets)
+tfplan.binary
+tfplan.json
+*.tfplan
+
+# Provider plugins (binaries — do NOT ignore .terraform.lock.hcl, that should be committed)
+.terraform/
+
+# Secret variable files (use tfvars.example for templates)
+*.tfvars
+!*.tfvars.example
+
+# Crash log
+crash.log
+crash.*.log
+
+# Override files (local dev overrides, never shared)
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# CLI config
+.terraformrc
+terraform.rc
