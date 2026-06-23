@@ -156,4 +156,4 @@ Authentication uses AWS OIDC (no static access keys stored in GitHub).
 
 ## License
 
-MIT
+AGPL-3.0 license
