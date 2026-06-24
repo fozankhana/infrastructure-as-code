@@ -139,10 +139,10 @@ Authentication uses AWS OIDC (no static access keys stored in GitHub).
 ## Build Progress
 
 - [x] Phase 1 — Scaffold & provider lock
-- [ ] Phase 2 — Bootstrap backend (S3 + DynamoDB)
-- [ ] Phase 3 — Root variables + backend config
-- [ ] Phase 4 — Networking module
-- [ ] Phase 5 — Security module
+- [x] Phase 2 — Bootstrap backend (S3 + DynamoDB)
+- [x] Phase 3 — Root variables + backend config
+- [x] Phase 4 — Networking module
+- [x] Phase 5 — Security module
 - [ ] Phase 6 — Load balancer module
 - [ ] Phase 7 — Database module
 - [ ] Phase 8 — Compute module
