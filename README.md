@@ -144,7 +144,7 @@ Authentication uses AWS OIDC (no static access keys stored in GitHub).
 - [x] Phase 4 — Networking module
 - [x] Phase 5 — Security module
 - [x] Phase 6 — Load balancer module
-- [ ] Phase 7 — Database module
+- [x] Phase 7 — Database module
 - [ ] Phase 8 — Compute module
 - [ ] Phase 9 — Root module wiring
 - [ ] Phase 10 — Outputs + validation
