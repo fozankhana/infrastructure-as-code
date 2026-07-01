@@ -14,6 +14,8 @@ tfplan.json
 # Secret variable files (use tfvars.example for templates)
 *.tfvars
 !*.tfvars.example
+# Environment configs are intentionally committed
+!environments/**/*.tfvars
 
 # Crash log
 crash.log
